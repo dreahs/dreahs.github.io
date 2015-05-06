@@ -11,10 +11,10 @@
             
             
       }
-      section contactME{
-            margin:0;
-            margin-top:20px;
-            padding:0;
+      div callInfo{
+            text-align:center;
+            color: #6353f9;
+           
             
       }
       footer{
