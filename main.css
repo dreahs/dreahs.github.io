@@ -3,7 +3,7 @@
         background-color:#d7d3f6;
         font-family: 'Indie Flower', cursive;
         margin:0;
-        text-align:center;
+      
         
       }
      h1,
@@ -26,7 +26,7 @@
     }
     nav ul li{
       list-style:none;
-      text-align:center;
+      
     }
     nav ul li a{
       color:#6353f9;
@@ -34,6 +34,7 @@
       float:left;
       padding:10px 20px;
       text-decoration:none;
+      text-align:center;
      
       
     }
