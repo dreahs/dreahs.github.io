@@ -1,0 +1,51 @@
+
+      body{
+        background-color:#d7d3f6;
+        font-family: 'Indie Flower', cursive;
+        margin:0;
+        
+      }
+     h1,
+     h2{
+      font-family: 'Lobster', cursive;
+       color:#ff9a00;
+     }
+     #greeting{
+       background-image:url(http://static.pexels.com/wp-content/uploads/2015/01/action-figure-hero-muscles-4048.jpg);
+       background-size: cover;
+       height: 1000px;
+     }
+     #headerBreak{
+       border-bottom:2px solid #fff000;
+       height:0;
+       width:100px;
+       
+     }
+     
+     
+    nav{
+      height:40px;
+      background:#fff000;
+      margin:0;
+      margin-top:20px;
+      padding:0;
+    }
+    nav ul li{
+      list-style:none;
+    }
+    nav ul li a{
+      color:#6353f9;
+      display:block;
+      float:left;
+      padding:10px 20px;
+      text-decoration:none;
+      text-align:center;
+     
+      
+    }
+    nav ul li a:hover{
+    color:#ff9c00;
+      
+    }
+      
+  
