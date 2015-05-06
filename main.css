@@ -21,10 +21,11 @@
       margin:0;
       margin-top:20px;
       padding:0;
-      text-align:center;
+      
     }
     nav ul li{
       list-style:none;
+      text-align:center;
     }
     nav ul li a{
       color:#6353f9;
