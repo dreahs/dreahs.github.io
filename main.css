@@ -10,16 +10,9 @@
       font-family: 'Lobster', cursive;
        color:#ff9a00;
      }
-     #greeting{
-       background-image:url(http://static.pexels.com/wp-content/uploads/2015/01/action-figure-hero-muscles-4048.jpg);
-       background-size: cover;
-       height: 1000px;
-     }
-     #headerBreak{
-       border-bottom:2px solid #fff000;
-       height:0;
-       width:100px;
-       
+     
+     header{
+           text-align:center;
      }
      
      
