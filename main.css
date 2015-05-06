@@ -1,52 +1,37 @@
-
       body{
         background-color:#d7d3f6;
         font-family: 'Indie Flower', cursive;
         margin:0;
-      
-        }
-        #container{
-              text-align:center;
-              margin:0px auto;
-              padding:32px;
-        }
         
-     h1,
-     h2{
+      }
+       h1,h2{
       font-family: 'Lobster', cursive;
        color:#ff9a00;
      }
-     header{
-           text-align:center;
-     }
-     header h2{
-           text-align:center;
-     }
+   
+      header{
+            text-align:center;
+      }
      
-     
-    nav{
+      nav{
       height:40px;
       background:#fff000;
-      margin:0 auto;
+      margin:0;
+      margin-top:20px;
       padding:0;
-     
-        }
-    nav ul li{
-      list-style:none;
-      text-align:center;
-      
     }
-    nav ul li a{
+      nav ul li{
+      list-style:none;
+    }
+      nav ul li a{
       color:#6353f9;
       display:block;
       float:left;
-      margin-top:20px;
       padding:10px 20px;
       text-decoration:none;
-      }
-    
-    nav ul li a:hover{
-    color:#ff9c00;
-        }
+     }
+     
+      nav ul li a:hover{
+       color:#ff9c00;
+       }
       
- 
