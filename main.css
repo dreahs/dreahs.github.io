@@ -27,9 +27,9 @@
     nav{
       height:40px;
       background:#fff000;
-      margin:0;
       margin-top:20px;
-      padding:0;
+      text-align:center;
+    
       
     }
     nav ul li{
@@ -40,8 +40,6 @@
       color:#6353f9;
       display:block;
       float:left;
-      padding:10px 20px;
-      margin:0 auto;
       text-decoration:none;
       text-align:center;
      
