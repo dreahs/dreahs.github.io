@@ -4,18 +4,13 @@
         margin:0;
         
       }
-      section{
-            background-color:#fff000;
-            border:2px solid #ff9c00 ;
-            margin:20px auto;
-            
-            
-      }
+      
       #callInfo{
-            text-align:center;
-            color: #6353f9;
-           
             
+            color: #6353f9;
+            font-family: 'Lobster', cursive;
+            text-align:center;
+
       }
       footer{
             text-align=center;
@@ -60,6 +55,11 @@
           
             text-align:center
             
+      }
+      section{
+            background-color:#fff000;
+            border:2px solid #ff9c00 ;
+            margin:20px auto;
       }
       
       
