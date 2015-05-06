@@ -25,6 +25,9 @@
       header{
             text-align:center;
       }
+      label{
+            color:#6353f9;
+      }
      
       nav{
       height:40px;
