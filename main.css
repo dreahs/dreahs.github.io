@@ -11,7 +11,7 @@
             text-align:center;
 
       }
-      #footer{
+      footer{
             text-align=center;
       }
        h1,h2{
@@ -21,10 +21,6 @@
    
       header{
             text-align:center;
-      }
-      #logo{
-            margin:0 auto;
-            padding:0;
       }
      
       nav{
