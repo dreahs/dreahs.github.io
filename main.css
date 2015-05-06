@@ -27,27 +27,26 @@
     nav{
       height:40px;
       background:#fff000;
-      margin-top:20px;
-      text-align:center;
-    
-      
-    }
+      margin:0 auto;
+      padding:0;
+     
+        }
     nav ul li{
       list-style:none;
+      text-align:center;
       
     }
     nav ul li a{
       color:#6353f9;
       display:block;
       float:left;
+      margin-top:20px;
+      padding:10px 20px;
       text-decoration:none;
-      text-align:center;
-     
-      
-    }
+      }
+    
     nav ul li a:hover{
     color:#ff9c00;
-      
-    }
+        }
       
  
