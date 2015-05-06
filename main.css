@@ -1,6 +1,6 @@
       body{
         background-color:#ebe9f8;
-        font-family: 'IndieFlower', cursive;
+        font-family: 'Vibur', cursive;
         margin:0;
         
       }
@@ -49,12 +49,12 @@
       #aboutME a{
             margin:0 auto;
             text-align:center;
-            font-family: 'IndieFlower', cursive;
+            font-family: 'Pacific', cursive;
       }
       #paragraphMe{
             text-align:center;
             margin:0 20px;
-            
+            font-family: 'Indie Flower', cursive;
       }
       #picture{
             text-align:center;
