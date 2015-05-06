@@ -4,6 +4,9 @@
         margin:0;
         
       }
+      footer{
+            text-align=center;
+      }
        h1,h2{
       font-family: 'Lobster', cursive;
        color:#ff9a00;
@@ -45,5 +48,6 @@
             text-align:center
             
       }
+      
       
       
