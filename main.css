@@ -8,16 +8,14 @@
       
      }
      
-     header img{
-           text-align:center;
-     }
-     header h2{
+     header{
            font-family: 'Lobster', cursive;
            color:#ff9a00;
            margin:0px auto;
            padding:0;
            text-align:center
-     }
+        }
+    
      
     nav{
       height:40px;
