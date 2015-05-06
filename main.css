@@ -20,8 +20,9 @@
       margin-top:20px;
       padding:0;
     }
-      nav ul li{
+      nav ul{
       list-style:none;
+      margin:0 auto;
     }
       nav ul li a{
       color:#6353f9;
