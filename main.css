@@ -12,7 +12,10 @@
       header{
             text-align:center;
       }
-     
+     header img{
+           margins:0 auto
+           padding:0;
+     }
       nav{
       height:40px;
       background:#fff000;
