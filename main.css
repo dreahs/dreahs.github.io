@@ -52,7 +52,8 @@
             font-family: 'Vibur', cursive;
       }
       #paragraphMe{
-            text-align:right;
+            text-align:center;
+            margin:0 20px;
       }
       section h1{
           
