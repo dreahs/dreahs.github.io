@@ -5,17 +5,15 @@
         margin:0;
         
       }
-      
+     h1,
+     h2{
+      font-family: 'Lobster', cursive;
+       color:#ff9a00;
+     }
+     header{
+           text-align:center;
      }
      
-     header{
-           font-family: 'Lobster', cursive;
-           color:#ff9a00;
-           margin:0px auto;
-           padding:0;
-           text-align:center
-        }
-    
      
     nav{
       height:40px;
@@ -33,7 +31,6 @@
       float:left;
       padding:10px 20px;
       text-decoration:none;
-      text-align:center;
      
       
     }
@@ -42,4 +39,4 @@
       
     }
       
-  
+ 
