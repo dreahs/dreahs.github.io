@@ -92,10 +92,9 @@
       margin:20px;
       color:#6253f8;
       font-family: 'Josefin Slab', serif;
-      text-align:center;
+      align-content:center;
     }
       #resume{
-      text-align:center;
-            
+      text-align: center
       }
       
