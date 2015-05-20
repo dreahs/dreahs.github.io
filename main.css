@@ -28,16 +28,13 @@
       label{
             color:#6353f9;
       }
-    
-           
-     }
+     
       nav{
       height:40px;
       background-color:#fff000;
       margin:0;
       margin-top:20px;
       padding:0;
-      border:2px solid #fd9e00;
     }
       nav ul{
       list-style:none;
@@ -61,13 +58,13 @@
             font-family: 'Pacific', cursive;
       }
       #paragraphMe{
-            text-align: center;
+            text-align:center;
             margin:0 20px;
             font-family: 'Josefin Slab', serif;
             color: #6353f9;
       }
       #picture{
-            text-align: center;
+            text-align:center;
       }
       section h1{
           
@@ -95,7 +92,7 @@
       margin:20px;
       color:#6253f8;
       font-family: 'Josefin Slab', serif;
-      align-content:center;
+      text-align: left
     }
       #resume{
       text-align: center
