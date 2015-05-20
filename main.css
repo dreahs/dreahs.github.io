@@ -74,8 +74,10 @@
       }
       section{
             
-            margin:20px auto;
+            margin:20px 20px;
             padding:0 20px;
+            background-color:#feef00;
+            border:2px solid #fd9e00;
       }
        
       caption {
