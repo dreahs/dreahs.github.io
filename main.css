@@ -89,12 +89,16 @@
       width: 600px;
       border: 2px solid #fd9e00;
       background-color:#feef00;
-      margin:20px auto;
+      margin:20px;
       color:#6253f8;
       font-family: 'Josefin Slab', serif;
-      padding:0px;
+      align-content:center;
     }
       #resume{
       text-align: center
       }
       
+div.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
