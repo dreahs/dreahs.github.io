@@ -111,8 +111,12 @@ table.center {
     margin-right:auto;
   }
 .teaser{
-      font-family: 'Pacifico', cursive;
+      background-color:#fff000;
+      border:2px solid #fd9e00 ;
       color:#ff9a00;
+      font-family: 'Pacifico', cursive;
       text-align:center;
+      
+      
       
 }
