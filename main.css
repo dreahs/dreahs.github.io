@@ -1,8 +1,9 @@
       body{
       
-      background: rgba(0, 0, 0, 0.06) linear-gradient(90deg, rgba(254, 188, 98, 0.65) 10%, rgba(98, 83, 248, 0.23) 90%) repeat scroll 0% 0%;
+      background: rgba(0, 0, 0, 0.06) linear-gradient(90deg, rgba(254, 188, 98, 0.65) 10%, rgba(254, 239, 0, 0.22) 90%) repeat scroll 0% 0%;
       font-family: "Josefin Slab",serif;
       margin: 0px;
+}
 }
         
       }
