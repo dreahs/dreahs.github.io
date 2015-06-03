@@ -18,9 +18,14 @@
       footer{
             text-align=center;
       }
-       h1,h2,h3{
+       h1,h3{
       font-family: 'Pacifico', cursive;
        color:#ff9a00;
+     }
+     h2{
+      font-family: 'Pacifico', cursive;
+       color:#ff9a00;
+       font-size:200px;
      }
      form{
            text-align:center;
