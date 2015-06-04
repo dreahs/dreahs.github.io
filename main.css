@@ -127,6 +127,6 @@ table.center {
 iframe{
       height:800px;
       width:500px;
-      margin:0;
+      margin:0 auto;
       display:block;
 }
