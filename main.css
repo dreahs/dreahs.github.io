@@ -25,6 +25,9 @@
        width:800px;
        
       }
+      #twitter{
+       float:right;
+      }
    
       footer{
             background:lightGrey;
