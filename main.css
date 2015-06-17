@@ -150,7 +150,8 @@
             text-align:center;
             margin:0 20px;
             font-family: 'Josefin Slab', serif;
-            color: #6353f9;
+            font-weight:bold;
+            color: white;
       }
       #picture{
             text-align:center;
