@@ -201,14 +201,19 @@ table.center {
     margin-right:auto;
   }
 .teaser{
-      background-color:#fff000;
-      border:2px solid #fd9e00 ;
+      
+      border:2px solid #3c4c54 ;
+      background:lightGrey;
       color:#ff9a00;
       font-family: 'Pacifico', cursive;
+      ;
       text-align:center;
       margin:20px 20px;
       
       
+}
+.noopacity{
+    opacity:100;
 }
 iframe{
       height:600px;
