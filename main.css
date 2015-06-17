@@ -17,8 +17,9 @@
 
       }
       #feeds{
+       background:lightGrey;
        text-align: center;
-       direction: rtl;
+       
       }
       #instagram{
        background:lightGrey;
