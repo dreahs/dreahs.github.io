@@ -229,8 +229,13 @@ table.center {
     opacity:100;
 }
 iframe{
+      background:lightGrey;
+        border:2px solid #3c4c54;
       height:600px;
       width:500px;
       margin:0 auto;
+      margin-left:auto; 
+      margin-right:auto;
+      margin-bottom:20px;
       display:block;
 }
