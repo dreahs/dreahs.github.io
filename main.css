@@ -19,6 +19,9 @@
       #feeds{
        background:lightGrey;
        text-align: center;
+       margin:0px auto;
+       margin-bottom:20px;
+       margin-top:20px;
        
       }
       #instagram{
