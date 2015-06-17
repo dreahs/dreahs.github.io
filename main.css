@@ -17,12 +17,13 @@
 
       }
       .feeds{
-       
+       background:lightGrey;
+       border:2px solid #3c4c54;
        text-align: center;
        margin:0px auto;
        margin-bottom:20px;
        margin-top:20px;
-       width:1000px;
+       width:800px;
        
       }
       
