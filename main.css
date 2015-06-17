@@ -16,7 +16,7 @@
             margin:0px auto;
 
       }
-      #feeds{
+      .feeds{
        
        text-align: center;
        margin:0px auto;
@@ -258,7 +258,7 @@ iframe{
       margin-bottom:20px;
       display:block;
 }
-section{
+.pdf{
     background:lightGrey;
     border:2px solid #3c4c54;
     margin-bottom:20px;
