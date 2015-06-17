@@ -17,10 +17,12 @@
 
       }
       footer{
-            text-align:center;
             background:lightGrey;
             border:2px solid #3c4c54;
+            color:white;
+            font-weight:bold;
             margin:0 auto;
+            text-align:center;
       }
        h1,h3{
       font-family: 'Pacifico', cursive;
