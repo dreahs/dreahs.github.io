@@ -16,6 +16,10 @@
             margin:0px auto;
 
       }
+      #feeds{
+       text-align: center;
+       direction: rtl;
+      }
       #instagram{
        background:lightGrey;
        margin:0px auto;
