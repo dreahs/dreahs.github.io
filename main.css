@@ -229,8 +229,7 @@ table.center {
     opacity:100;
 }
 iframe{
-      background:lightGrey;
-        border:2px solid #3c4c54;
+      
       height:600px;
       width:500px;
       margin:0 auto;
@@ -238,4 +237,15 @@ iframe{
       margin-right:auto;
       margin-bottom:20px;
       display:block;
+}
+section{
+    background:lightGrey;
+    border:2px solid #3c4c54;
+    margin-bottom:20px;
+    margin-left:auto; 
+    margin-right:auto;
+    margin-top:20px;
+    width:700px;
+    
+    
 }
