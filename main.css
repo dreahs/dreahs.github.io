@@ -1,6 +1,4 @@
-      body{
-      
-      background: rgba(0, 0, 0, 0.06) linear-gradient(180deg, rgba(230, 230, 230, 0.4) 10%, rgba(98, 83, 248, 0.23) 90%) repeat scroll 0% 0%;
+ body{
       font-family: "Josefin Slab",serif;
        margin: 0px;
 }
@@ -16,7 +14,9 @@
 
       }
       footer{
-            text-align=center;
+            text-align:center;
+            background:#b2b2b2;
+            border:2px solid #4f4f4f;
       }
        h1,h3{
       font-family: 'Pacifico', cursive;
@@ -40,21 +40,21 @@
      
       nav{
       height:40px;
-      background-color:#fff000;
-      margin:20px 20px;
-      margin-top:20px;
+      width:700px;
+      margin:0px auto;
       padding:0;
-      border:2px solid #fd9e00 ;
+   
     }
       nav ul{
       list-style:none;
       margin:0 auto;
-      width:500px;
+      width:1000px;
     }
       nav ul li a{
       color:#6353f9;
       display:block;
       float:left;
+      margin:0 auto;
       padding:10px 20px;
       text-decoration:none;
      }
@@ -62,6 +62,86 @@
       nav ul li a:hover{
        color:#ff9c00;
        }
+#home{
+    background:#f2c249;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
+    color:white;
+    font-weight: bold;
+    line-height:15px;
+    margin: 0px auto;
+    padding:auto;
+    text-align: center;
+    width: 80px;
+    }
+#about{
+    background:#e6772e;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
+    color:white;
+    font-weight: bold;
+    line-height:15px;
+    margin: 0px auto;
+     padding:auto;
+    text-align: center;
+    width: 80px;
+    }
+#resume{
+    background:#4db3b3;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
+    color:white;
+    font-weight: bold;
+    line-height:15px;
+    text-align: center;
+    width: 80px;
+    }
+#gallery{
+    background:#e64a45;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
+    color:white;
+    font-weight: bold;
+    line-height:15px;
+    text-align: center;
+    width: 80px;
+    }
+#contact{
+    background:#3d4c53;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
+    color:white;
+    font-weight: bold;
+    line-height:15px;
+    text-align: center;
+    width: 80px;
+    }
+
+#home:hover{
+    background: #3d4c53;
+    
+    
+}
+#about:hover{
+    background: #e64a45;
+}
+#resume:hover{
+    background: #f2c249;
+}
+
+#gallery:hover{
+    background: #e6772e;
+}
+#contact:hover{
+    background: #4db3b3;
+}
+
+
       #aboutME a{
             margin:0 auto;
             text-align:center;
