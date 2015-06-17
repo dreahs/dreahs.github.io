@@ -16,6 +16,12 @@
             margin:0px auto;
 
       }
+      #instagram{
+       float:right;
+      }
+      #twitter{
+       float:left;
+      }
       footer{
             background:lightGrey;
             border:2px solid #3c4c54;
