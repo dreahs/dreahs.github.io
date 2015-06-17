@@ -24,7 +24,8 @@
       }
       #twitter{
         background:lightGrey;
-       margin:0px auto;
+        float:left;
+        margin:0px auto;
         width:400px;
       }
       footer{
