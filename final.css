@@ -10,7 +10,8 @@
   display: inline;
 }
 footer{
-  backgound:#feca30;
+  background:#feca30;
+  margin:0 auto;
 }
 
 .jumbotron {
