@@ -38,10 +38,12 @@
        
       }
       
-      .instagram{
-       margin-bottom:20px;
-       margin-top:20px;
-      }
+    .instagram{
+     border:none;
+     overflow:hidden;
+     width:500px; 
+     height:150px
+    }
       
    
       footer{
