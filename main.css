@@ -43,6 +43,9 @@
      overflow:hidden;
      width:500px; 
      height:150px
+     transparency:true;  
+     frameborder:0; 
+     scrolling:no; 
     }
       
    
