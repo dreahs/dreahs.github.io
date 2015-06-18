@@ -9,6 +9,9 @@
 .nav li {
   display: inline;
 }
+footer{
+  backgound-color:#feca30;
+}
 
 .jumbotron {
   background-image:url('http://www.shop-today-from-usa.com/img/270813022714forever21_logo_hi-res.jpg');
