@@ -287,6 +287,8 @@ iframe{
     margin-right:auto;
     margin-top:20px;
     width:700px;
-    
-    
-}
+  }
+  .video{
+   height:225px;
+   width:400px;
+  }
