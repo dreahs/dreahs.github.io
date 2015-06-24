@@ -278,9 +278,11 @@ iframe{
   }
    table {
       width: 600px;
-      margin:20px;
-      text-align: left
+      margin-left:20px;
+      margin-right:20px;
       margin:0 auto;
+      text-align: left
+      
     }
       #resume{
       text-align: center
