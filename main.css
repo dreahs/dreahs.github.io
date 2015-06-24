@@ -276,8 +276,16 @@ iframe{
    height:225px;
    width:400px;
   }
-  .Avery{
-   height:225px;
-   width:400px;
-   
+   table {
+      width: 600px;
+      margin:20px;
+      text-align: left
+    }
+      #resume{
+      text-align: center
+      }
+      
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
   }
