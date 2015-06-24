@@ -280,6 +280,7 @@ iframe{
       width: 600px;
       margin:20px;
       text-align: left
+      margin:0 auto;
     }
       #resume{
       text-align: center
