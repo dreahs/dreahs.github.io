@@ -237,23 +237,8 @@
     color:#feef00;
     font-family: 'Josefin Slab', serif;
     }
-    table {
-      width: 600px;
-      border: 2px solid #fd9e00;
-      background-color:#feef00;
-      margin:20px;
-      color:#6253f8;
-      font-family: 'Josefin Slab', serif;
-      text-align: left
-    }
-      #resume{
-      text-align: center
-      }
-      
 table.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
+   
 .teaser{
       
       border:2px solid #3c4c54 ;
@@ -287,6 +272,24 @@ iframe{
     margin-right:auto;
     margin-top:20px;
     width:700px;
-    
-    
-}
+  }
+  .video{
+   height:225px;
+   width:400px;
+  }
+   table {
+      width: 600px;
+      margin-left:20px;
+      margin-right:20px;
+      margin:0 auto;
+      text-align: left
+      
+    }
+      #resume{
+      text-align: center
+      }
+      
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
