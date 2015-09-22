@@ -66,8 +66,17 @@
      }
      h2{
       font-family: 'Pacifico', cursive;
-       color:#48b3b4;
+       color:white;
        font-size:45px;
+       margin:0 auto;
+       margin-top:0px;
+       margin-left:auto; 
+       margin-right:auto;
+     }
+     p{
+      font-family: 'Pacifico', cursive;
+       color:white;
+       font-size:25px;
        margin:0 auto;
        margin-top:0px;
        margin-left:auto; 
