@@ -63,7 +63,7 @@
       }
        h1,h3{
        font-family: 'Pacifico', cursive;
-       color:white;
+       color:red;
        font-size:15px;
      }
      h2{
@@ -76,6 +76,16 @@
        margin-right:auto;
      }
      p{
+      font-family: 'Source Sans Pro', sans-serif;
+       color:red;
+       font-size:10px;
+       margin:0 auto;
+       margin-top:0px;
+       margin-left:auto; 
+       margin-right:auto;
+       
+     }
+     p1{
       font-family: 'Source Sans Pro', sans-serif;
        color:white;
        font-size:10px;
