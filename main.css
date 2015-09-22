@@ -61,11 +61,17 @@
             margin-bottom:0px;
             text-align:center;
       }
-       h1,h3{
+       h3{
        font-family: 'Pacifico', cursive;
        color:red;
        font-size:15px;
      }
+     h1{
+      font-family: 'Pacifico', cursive;
+       color:white;
+       font-size:15px;
+       text-align:left;
+      }
      h2{
        font-family: 'Pacifico', cursive;
        color:white;
