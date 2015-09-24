@@ -101,6 +101,15 @@
        margin-right:auto;
        
      }
+     p2{
+      font-family: 'Source Sans Pro', sans-serif;
+       color:white;
+       font-size:10px;
+       margin:0 auto;
+       margin-top:0px;
+       margin-left:auto; 
+       margin-right:auto;
+     }
      form{
            text-align:center;
      }
