@@ -143,7 +143,10 @@
        color:#ff9c00;
        }
 #home{
-    
+    background:#f2c249;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
     color:white;
     font-weight: bold;
     line-height:15px;
@@ -153,7 +156,10 @@
     width: 80px;
     }
 #about{
-    
+    background:#e6772e;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
     color:white;
     font-weight: bold;
     line-height:15px;
@@ -163,7 +169,10 @@
     width: 80px;
     }
 #resume{
-    
+    background:#4db3b3;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
     color:white;
     font-weight: bold;
     line-height:15px;
@@ -171,7 +180,10 @@
     width: 80px;
     }
 #gallery{
-    
+    background:#e64a45;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
     color:white;
     font-weight: bold;
     line-height:15px;
@@ -179,14 +191,17 @@
     width: 80px;
     }
 #contact{
-    
+    background:#3d4c53;
+    border-radius:5px;
+    box-shadow:0 0px 2px rgba(0,0,0,.5),
+        1px 1px 1px rgba(0,0,0,.3);
     color:white;
     font-weight: bold;
     line-height:15px;
     text-align: center;
     width: 80px;
     }
-
+    
 #home:hover{
     background: #3d4c53;
     
